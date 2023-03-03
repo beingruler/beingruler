@@ -25,7 +25,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jai
 </a>
 
 ## My Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=NomoreLakshya&show_icons=true&theme=minimal)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=NomoreLakshya&show_icons=true&theme=hacker)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=NomoreLakshya&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/NomoreLakshya)
 
