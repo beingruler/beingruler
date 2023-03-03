@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hello There :wave:, Welcome to my GitHub profile.
 
-<!--
-**NomoreLakshya/NomoreLakshya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jaipur(Rajasthan), India.
 
-Here are some ideas to get you started:
+## How You Can Find Meh And Where!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/NomoreLakshya)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CallmeLakshya)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://telegram.me/sarcastic._.lakshya)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://telegram.me/EGLakshyaFF)
+
+# Some Projects
+
+<a href="https://github.com/NomoreLakshya/Ai-UserBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NomoreLakshya&repo=Ai-UserBot&cache_seconds=86400&theme=chartreuse-dark">
+</a>
+
+<a href="https://github.com/NomoreLakshya/Ai-ChatBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NomoreLakshya&repo=Ai-ChatBot&cache_seconds=86400&theme=chartreuse-dark">
+</a>
+
+
+<a href="https://github.com/NomoreLakshya/String-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NomoreLakshya&repo=String-Generator&cache_seconds=86400&theme=chartreuse-dark">
+</a>
+
+## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=NomoreLakshya&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=NomoreLakshya&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/NomoreLakshya)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=NomoreLakshya)
