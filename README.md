@@ -23,6 +23,12 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jai
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NomoreLakshya&repo=String-Generator&cache_seconds=86400&theme=chartreuse-dark">
 </a>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NomoreLakshya&layout=compact&theme=midnight-purple&hide=Css">
+    <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NomoreLakshya&layout=compact&theme=midnight-purple&hide=Css" />
+</a>
+</b></h2>  
+</details>
+
 ## My Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=NomoreLakshya&show_icons=true&theme=tokyonight)
 
