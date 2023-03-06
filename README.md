@@ -32,3 +32,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jai
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=NomoreLakshya&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/NomoreLakshya)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=NomoreLakshya)
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
