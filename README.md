@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ʟᴀᴋsʜʏᴀ's+ɢɪᴛʜᴜʙ+ᴘʀᴏꜰɪʟᴇ&linesColor=red)](https://github.com/NomoreLakshya)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ʟᴀᴋsʜʏᴀ's+ɢɪᴛʜᴜʙ+ᴘʀᴏғɪʟᴇ&linesColor=red)](https://github.com/NomoreLakshya)
 
 Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jaipur(Rajasthan), India.
 
