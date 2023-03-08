@@ -1,4 +1,4 @@
-## Hello There :wave:, Welcome to my GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ᴡᴇʟᴄᴏᴍᴇ+ᴛᴏ+ʟᴀᴋsʜʏᴀ+ᴍᴀʜᴇsʜᴡᴀʀɪ+ɢɪᴛʜᴜʙ+ᴘʀᴏꜰɪʟᴇ+****)](https://github.com/NomoreLakshya)
 
 Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jaipur(Rajasthan), India.
 
