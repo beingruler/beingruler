@@ -19,6 +19,10 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jai
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=NomoreLakshya)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teamex07&show_icons=true&locale=en" alt="teamex07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teamex07&" alt="teamex07" /></p>
+
 ## 🎵 Now playing
 
 [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
