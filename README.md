@@ -19,9 +19,9 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jai
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=NomoreLakshya)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teamex07&show_icons=true&locale=en" alt="teamex07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NomoreLakshya&show_icons=true&locale=en" alt="NomoreLakshya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teamex07&" alt="teamex07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NomoreLakshya&" alt="NomoreLakshya" /></p>
 
 ## 🎵 Now playing
 
