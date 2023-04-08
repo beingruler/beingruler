@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+LAKSHYA's+GITHUB+PROFILE)](https://github.com/NomoreLakshya)
 
+<div align="center">
+<img src="https://graph.org/file/51358cf53f0eced51489b.mp4" align="center" style="width: 100%; height:200px" />
+</div>  
+
 Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jaipur(Rajasthan), India.
 
 ## How You Can Find Meh And Where !!
