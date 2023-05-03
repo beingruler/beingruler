@@ -15,7 +15,7 @@ Let me introduce you about myself, my name is LAKSHYA MAHESHWARI, 18y.o from Jai
 
 
 ## My Stats
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=NomoreLakshya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Itz-Lakshya)
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-Lakshya&show_icons=true&theme=tokyonight)
 
