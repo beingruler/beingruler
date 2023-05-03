@@ -21,7 +21,7 @@ Let me introduce you about myself, my name is LAKSHYA MAHESHWARI, 18y.o from Jai
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Lakshya&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Itz-Lakshya)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Itz-Lakshya)
+![Visitor Count](https://profile-counter.glitch.me/Itz-Lakshya/count.svg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Lakshya&" alt="Itz-Lakshya" /></p>
