@@ -4,27 +4,27 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:200px" />
 </div>  
 
-Let me introduce you about myself, my name is LAKSHYA MAHESHWARI, 18y.o from Jaipur(Rajasthan), India.
+Let me introduce you about myself, my name is Lakshya Maheshwari, 18y.o from Jaipur(Rajasthan), India.
 
 ## How You Can Find Meh And Where !!
 
-[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Itz-Lakshya)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/CallmeLakshya)
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sup3rst4r_laksh)
+[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/2amthought)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/ll_Lakshya_ll)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/really._.insane)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@LakshyaisLive)
 
 
 ## My Stats
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Itz-Lakshya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=2amthought)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Itz-Lakshya&show_icons=true&theme=tokyonight)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=2amthoughta&show_icons=true&theme=tokyonight)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Itz-Lakshya&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/Itz-Lakshya)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=2amthought&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/2amthought)
 
-![Visitor Count](https://profile-counter.glitch.me/Itz-Lakshya/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/2amthought/count.svg)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Itz-Lakshya&" alt="Itz-Lakshya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2amthought&" alt="2amthought" /></p>
 
 ## 🎵 Now playing
 
