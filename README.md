@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+TO+Lakshya's+Github+Profile)](https://github.com/2amthought)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Lakshya's+Github+Profile)](https://github.com/2amthought)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:200px" />
