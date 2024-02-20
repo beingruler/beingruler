@@ -10,7 +10,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 19y.o from Jai
 
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/2amthought)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/beingruler)
-[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lakshya_maheshwari_003)
+[![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_datboii.laksh)
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Wichardff)
 
 
