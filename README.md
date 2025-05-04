@@ -24,7 +24,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 20y.o from Jai
 ![Visitor Count](https://profile-counter.glitch.me/beingruler/count.svg)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2amthought&" alt="beingruler" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingruler&" alt="beingruler" /></p>
 
 ## 🎵 Now playing
 
