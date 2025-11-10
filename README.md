@@ -20,7 +20,8 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 21y.o from Jai
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=beingruler&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/beingruler)
 
-![Visitor Count](https://profile-counter.glitch.me/beingruler/count.svg)
+![Visitors Count](https://komarev.com/ghpvc/?username=beingruler&label=Profile%20views&color=green&style=flat-square)
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingruler&" alt="beingruler" /></p>
