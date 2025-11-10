@@ -16,7 +16,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 21y.o from Jai
 ## My Stats
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=beingruler)
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=beingruler&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=beingruler&show_icons=true&theme=tokyonight)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=beingruler&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/beingruler)
 
