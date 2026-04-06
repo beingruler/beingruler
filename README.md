@@ -14,7 +14,7 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 21y.o from Jai
 
 
 ## My Stats
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=coderluv)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coderluv&theme=onedark)](https://github.com/coderluv/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderluv&show_icons=true&theme=tokyonight)
 
