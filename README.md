@@ -13,6 +13,15 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 21y.o from Jai
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshya.maheshwariii)
 
 
+📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderluv&layout=compact&theme=tokyonight)
+
+
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/coderluv/coderluv/blob/output/github-contribution-grid-snake.svg)
+
+
 ## My Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderluv&theme=onedark)](https://github.com/coderluv/github-profile-trophy)
