@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Lakshya's+Github+Profile)](https://github.com/beingruler)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Lakshya's+Github+Profile)](https://github.com/coderluv)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height:200px" />
@@ -8,23 +8,23 @@ Let me introduce you about myself, my name is Lakshya Maheshwari, 21y.o from Jai
 
 ## How You Can Find Meh And Where !!
 
-[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/beingruler)
+[![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/coderluv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/mehthebestever)
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshya.maheshwariii)
 
 
 ## My Stats
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=beingruler)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=coderluv)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=beingruler&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderluv&show_icons=true&theme=tokyonight)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=beingruler&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/beingruler)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=coderluv&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/coderluv)
 
-![Visitors Count](https://komarev.com/ghpvc/?username=beingruler&label=Profile%20views&color=green&style=flat-square)
+![Visitors Count](https://komarev.com/ghpvc/?username=coderluv&label=Profile%20views&color=green&style=flat-square)
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingruler&" alt="beingruler" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderluv&" alt="coderluv" /></p>
 
 ## 🎵 Now playing
 
