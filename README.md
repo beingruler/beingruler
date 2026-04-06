@@ -53,9 +53,6 @@
 
 ---
 
-
-## 🎵 Now Playing (Spotify)
-[![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/)
 <!--
 **coderluv/coderluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
