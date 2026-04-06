@@ -39,7 +39,7 @@
 ---
 
 ## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderluv&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderluv&theme=tokyonight)
 
 ---
 
