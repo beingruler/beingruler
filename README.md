@@ -33,7 +33,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderluv&theme=tokyonight)
 
 ---
