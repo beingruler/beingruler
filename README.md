@@ -38,8 +38,8 @@
 
 ---
 
-## 📈 Top Languages
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderluv&theme=tokyonight)
+## 📈 Most Used Languages
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderluv&theme=tokyonight)
 
 ---
 
