@@ -28,8 +28,8 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderluv&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1)
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=coderluv&theme=tokyonight&no-frame=true&no-bg=true)
 
 ---
 
