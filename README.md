@@ -48,10 +48,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/coderluv/coderluv/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎵 Now Playing (Spotify)
 [![Spotify](https://spotify-readme.vercel.app/api/spotify)](https://open.spotify.com/)
