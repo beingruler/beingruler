@@ -34,7 +34,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=coderluv&theme=tokyonight&no-frame=true&margin-w=10)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderluv&theme=tokyonight)
 
 ---
 
