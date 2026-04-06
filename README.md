@@ -28,8 +28,13 @@
 
 ---
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=coderluv&theme=tokyonight)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐%20Stars-Profile-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Followers-Growing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Projects-Active-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥%20Commits-Consistent-red?style=for-the-badge" />
+</p>
 
 ---
 
