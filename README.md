@@ -10,8 +10,8 @@
 
 ## 🧠 About Me
 - 🎓 21 y/o from Jaipur, India  
-- 💻 Python | SQL | Machine Learning  
-- 📊 Love working with data & building models  
+- 💻 Java | SQL | Software Developer  
+- 📊 Love working with data & building software  
 - 🚀 Always learning new tech  
 
 ---
