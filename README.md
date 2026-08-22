@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshya Maheshwari
+# 👋 Hi, I'm Lakshya Lathi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;Python+Developer;Machine+Learning+Enthusiast)](https://github.com/coderluv)
 
