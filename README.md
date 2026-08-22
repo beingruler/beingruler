@@ -17,14 +17,14 @@
 ---
 
 ## 🌐 Connect With Me
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/coderluv)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/mehthebestever)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/lakshhyaa)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/lakshhyaaM)
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshya.maheshwariii)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=coderluv&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=lakshhyaa&theme=tokyonight)
 
 ---
 
@@ -39,17 +39,17 @@
 ---
 
 ## 🏆 GitHub Achievements
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderluv&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshhyaa&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderluv&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshhyaa&theme=tokyonight)
 
 ---
 
 ## 👀 Profile Views
-![Visitors](https://komarev.com/ghpvc/?username=coderluv&label=Profile%20Views&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=lashhyaa&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
