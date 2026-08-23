@@ -22,7 +22,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lakshya.maheshwariii)
 
 ---
-
 ## 📊 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=lakshhyaa&theme=tokyonight)
 
